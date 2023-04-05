@@ -17,7 +17,14 @@ In recent years, India has become a hub for innovation and entrepreneurship due 
 
 
 ## Setup
-
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+summarytools
+plotly
+getContinent
 
 ## App Execution
 ...
