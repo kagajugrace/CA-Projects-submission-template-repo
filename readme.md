@@ -17,17 +17,46 @@ In recent years, India has become a hub for innovation and entrepreneurship due 
 
 
 ## Setup
-numpy
-pandas
-seaborn
-matplotlib
-scipy
-summarytools
-plotly
-getContinent
+pip install numpy 
+
+pip install pandas
+
+pip install matplotlib
+
+pip install seaborn
+
+pip install scipy
+
+pip install summarytools
+
+pip install plotly
+
+pip install getContinent
 
 ## App Execution
-...
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import scipy.stats
+from summarytools import dfSummary
+import warnings
+warnings.filterwarnings("ignore")
+
+sns.set_theme(style="whitegrid")
+
+import os
+import plotly.express as px
+from scipy import stats
+
+from scipy.stats import pearsonr
+
+from scipy.stats import chi2_contingency
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
+
+# numpy and pandas will be used for data handling
+# seaborn and matplotlib will be used for data visualization
 
 ## Author
 Marie Grace KAGAJU
