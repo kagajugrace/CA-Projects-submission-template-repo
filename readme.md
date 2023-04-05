@@ -56,6 +56,7 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
 
 **numpy and pandas will be used for data handling**
+
 **seaborn and matplotlib will be used for data visualization**
 
 ## Author
