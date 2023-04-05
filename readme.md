@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP1 | INDIAN STARTUP ANALYSIS |  [Best article of the world](/) | [https://app.powerbi.com/groups/me/reports/4d375e6f-98c3-4e99-824e-675cb929d722/ReportSection](/) |
+| LP1 | INDIAN STARTUP ANALYSIS |  [Best article of the world](/) | [https:app.powerbi.com/groups/me/reports/4d375e6f-98c3-4e99-824e-675cb929d722/ReportSection](/) |
 
 ## Project Description
 In this project seeks to explore whhich start-ups receive the much funding in India
