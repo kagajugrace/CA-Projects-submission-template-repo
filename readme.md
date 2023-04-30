@@ -1,10 +1,10 @@
 # CA-Projects-template-submission-repo
-# Regression-Project-on-Coorporation-Favorita
+## Regression-Project-on-Coorporation-Favorita
 Time Series Project on Corporation Favorita aimed to inform on the stocks of products it should have at a particular point in time by analysing the demand trend of all of its products by consumers by using machine learning model forcast
  
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP1 | INDIAN STARTUP ANALYSIS |  [Best article of the world](https://medium.com/@kagajugrace/indian-start-up-funding-analysis-4d5280bc0ad0) | [POWER BI DASHBOARD](/) |
+| LP1 | REGRESSION ANALYSIS |  [Best article of the world](https://medium.com/@kagajugrace/time-series-regression-analysis-on-corporation-favorita-sales-prediction-using-machine-learning-934a3edd7a9b) | [POWER BI DASHBOARD](/) |
 
 ## Project Description
  ### Project Introduction
