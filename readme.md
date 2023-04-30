@@ -1,17 +1,10 @@
+# CA-Projects-template-submission-repo
 # Regression-Project-on-Coorporation-Favorita
 Time Series Project on Corporation Favorita aimed to inform on the stocks of products it should have at a particular point in time by analysing the demand trend of all of its products by consumers by using machine learning model forcast
  
-# CA-Projects-template-submission-repo
-The goal of this initiative is to provide information to important players who are considering entering the Indian startup ecosystem.
-
-In order to do this, we will examine important indicators of investment received by startups in India from 2018 to 2021. Management will make strategic business decisions using these information.
-
-I created a hypothesis to test the dataset so that I might get a valid conclusion. In order to determine which industry is more likely to attract investment from investors, the data were analyzed in terms of technical and non-technology industries.
-
-## Summary
-| Code      | Name        | Published Article |  
+| Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP2 | REGRESSION ANALYSIS |  [Best article of the world](/) |
+| LP1 | INDIAN STARTUP ANALYSIS |  [Best article of the world](https://medium.com/@kagajugrace/indian-start-up-funding-analysis-4d5280bc0ad0) | [POWER BI DASHBOARD](/) |
 
 ## Project Description
  ### Project Introduction
@@ -197,7 +190,17 @@ Comparison Table of Evaluation Results:
 
 #### Summary 
 Lastly, in building machine learning model to forecast future sales of corporation favorita products, the encoded data was visualized with a subplot revealed that many quantities of dcoilwtico were sold between 2016 and 2017 across all cities in Ecuador. Regression is a critical statistical strategy used in time-series analysis and modeling. It aids in forecasting future trends, identifying patterns, and assessing the impact of past events on current data. The most common regression techniques used in time-series analysis are linear regression, ARIMA, and exponential smoothing. Understanding the advantages of using regression in time-series analysis allows data scientists to make more informed decisions and improve their data analysis techniques.
-| LP1 | INDIAN STARTUP ANALYSIS |  [Best article of the world](https://medium.com/@kagajugrace/indian-start-up-funding-analysis-4d5280bc0ad0) | [POWER BI DASHBOARD](https://app.powerbi.com/groups/me/reports/4d375e6f-98c3-4e99-824e-675cb929d722/ReportSection) |
+
+# CA-Projects-template-submission-repo
+The goal of this initiative is to provide information to important players who are considering entering the Indian startup ecosystem.
+
+In order to do this, we will examine important indicators of investment received by startups in India from 2018 to 2021. Management will make strategic business decisions using these information.
+
+I created a hypothesis to test the dataset so that I might get a valid conclusion. In order to determine which industry is more likely to attract investment from investors, the data were analyzed in terms of technical and non-technology industries.
+
+| Code      | Name        | Published Article |  Deployed App |
+|-----------|-------------|:-------------:|------:|
+| LP1 | INDIAN STARTUP ANALYSIS |  [Best article of the world](https://medium.com/@kagajugrace/indian-start-up-funding-analysis-4d5280bc0ad0) | [POWER BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNGZkMjRlODgtODM5NS00OTZlLThmNTEtNzI1NTk3NzFhNTY3IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
 ## Project Description
 In this project seeks to explore which start-ups receive the much funding in India
