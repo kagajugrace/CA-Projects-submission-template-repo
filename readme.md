@@ -4,7 +4,7 @@ Time Series Project on Corporation Favorita aimed to inform on the stocks of pro
  
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP2 | REGRESSION ANALYSIS |  [Best article of the world](https://medium.com/@kagajugrace/time-series-regression-analysis-on-corporation-favorita-sales-prediction-using-machine-learning-934a3edd7a9b) | [POWER BI DASHBOARD](/) |
+| LP2 | REGRESSION ANALYSIS |  [Best article of the world](https://medium.com/@kagajugrace/time-series-regression-analysis-on-corporation-favorita-sales-prediction-using-machine-learning-934a3edd7a9b) | [POWER BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYTUyNmY5ZjctOGFkYy00MzhiLWE0YjgtNmRiY2Q3MjI0YWFlIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
 ## Project Description
  ### Project Introduction
